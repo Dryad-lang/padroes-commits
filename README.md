@@ -67,12 +67,6 @@
       <td>Documentação</td>
       <td>📚 <code>:books:</code></td>
       <td><code>docs</code></td>
-    </tr>
-    <tr>
-      <td>Estilização de interface</td>
-      <td>💄 <code>:lipstick:</code></td>
-      <td><code>feat</code></td>
-    </tr>
     <tr>
       <td>Infraestrutura</td>
       <td>🧱 <code>:bricks:</code></td>
@@ -87,12 +81,6 @@
       <td>Novo recurso</td>
       <td>✨ <code>:sparkles:</code></td>
       <td><code>feat</code></td>
-    </tr>
-    <tr>
-      <td>Package.json em JS</td>
-      <td>📦 <code>:package:</code></td>
-      <td><code>build</code></td>
-    </tr>
     <tr>
       <td>Performance</td>
       <td>⚡ <code>:zap:</code></td>
@@ -152,19 +140,6 @@
       </td>
       <td>🐛 fix: Loop infinito na linha 50</td>
     </tr>
-    <tr>
-      <td>
-        <code>git commit -m ":sparkles: feat: Pagina de login"</code>
-      </td>
-      <td>✨ feat: Pagina de login</td>
-    </tr>
-    <tr>
-      <td>
-        <code>git commit -m ":bricks: ci: Modificaçao no Dockerfile"</code>
-      </td>
-      <td>🧱 ci: Modificaçao no Dockerfile</td>
-    </tr>
-    <tr>
       <td>
         <code>git commit -m ":recycle: refactor: Passando para arrow functions"</code>
       </td>
@@ -182,23 +157,9 @@
       </td>
       <td>💥 fix: Revertendo mudanças ineficientes</td>
     </tr>
-    <tr>
-      <td>
-        <code>git commit -m ":lipstick: feat: Estilizaçao CSS do formulario"</code>
-      </td>
-      <td>💄 feat: Estilizaçao CSS do formulario</td>
-    </tr>
-    <tr>
       <td>
         <code>git commit -m ":test_tube: test: Criando novo teste"</code>
       </td>
       <td>🧪 test: Criando novo teste</td>
-    </tr>
-    <tr>
-      <td>
-        <code>git commit -m ":bulb: docs: Comentários sobre a função LoremIpsum( )"</code>
-      </td>
-      <td>💡 docs: Comentários sobre a função LoremIpsum( )</td>
-    </tr>
   </tbody>
 </table>
